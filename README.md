@@ -9,7 +9,7 @@
 
 Digital “boek” tracker for informal spaza-shop credit.
 
-Built for the **Samsung Innovation Internship 2027 – Route A**[cite: 7].
+Built for the **Samsung Innovation Internship 2027 – Route A**(Real Establishment).
 
 ## Problem
 Township spaza shops still track customer credit in paper notebooks.  
